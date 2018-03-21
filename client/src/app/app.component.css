@@ -1,0 +1,39 @@
+#wrapper{
+	background-color: #dddddd;
+	height: 90%;
+	padding: 1%;
+	max-height: 100%;
+}
+h1{
+	padding: 1%;
+}
+#formHolder{
+	background-color: white;
+	border: 2px solid black;
+	margin: 1%;
+	padding: 1%;
+}
+#text{
+	width: 80%;
+}
+#submit{
+	background-color: #009e0f
+}
+#noteHolder{
+	background-color: white;
+	margin: 1%;
+	padding: 1%;
+	border: 2px solid black;
+	overflow: auto;
+	max-height: 600px;
+}
+.note{
+	background-color: white;
+	margin: 1%;
+	padding: 1%;
+	border: 2px solid black;
+}
+.timestamp{
+	text-align: right;
+	vertical-align: super
+}
